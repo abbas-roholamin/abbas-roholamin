@@ -7,7 +7,7 @@ I am abbas 😊 . Currently, I am a second-year student Computer Science at Hera
 
 - Front-end
 | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="js logo" width="24">]  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="ts logo" width="24">](https://reactjs.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="rust logo" width="24">](https://redux.js.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) | 
-|---|---|---|---|---|
+|---|---|---|---|
 
 - Learning
 
