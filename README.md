@@ -7,7 +7,8 @@ I am abbas 😊 . Currently, I am a second-year student Computer Science at Hera
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/v/v.png" alt="v logo" width="24">](https://vlang.io/)  
+| [<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/html/html.png" alt="v logo" width="24">] 
+[<img src="https://raw.githubusercontent.com/github/explore/cfd26557025b2ccaa2d3d25f3e518e29ebea05c5/topics/css/css.png" alt="v logo" width="24">] 
 |---|---|---|---|---|---|
 
 - Learning
