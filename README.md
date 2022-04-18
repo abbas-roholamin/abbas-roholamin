@@ -50,7 +50,15 @@
          width="40"
          height="40"
        />
-   </a>  
+   </a>
+   <a href="https://laravel.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+      alt="laravel"
+      width="40"
+      height="40"
+    />
+  </a>
    <a href="https://svelte.dev" target="_blank">
        <img
          src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
@@ -94,6 +102,14 @@
    <a href="https://git-scm.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
       alt="git"
       width="40"
       height="40"
