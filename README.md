@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abbas</h1>
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on laravel-project
 - 🌱 I’m currently learning liveware,nextjs and Tailwind
 
 
