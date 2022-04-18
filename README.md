@@ -1,10 +1,19 @@
+<h1 align="center">Hi 👋, I'm Abbas</h1>
 
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning liveware,nextjs and Tailwind
 
 
 <h3 align="left">Languages and Tools:</h3>
-![HTML5] (https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
+<p align="left">  <a href="https://git-scm.com/" target="_blank">
+    <img
+      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
 
 
 
