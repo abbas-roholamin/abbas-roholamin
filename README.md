@@ -14,7 +14,7 @@
       <a href="https://www.w3.org/Style/CSS/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="html5"
+      alt="CSS3"
       width="40"
       height="40"
     />
@@ -22,7 +22,7 @@
       <a href="https://getbootstrap.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg"
-      alt="html5"
+      alt="getbootstrap"
       width="40"
       height="40"
     />
@@ -44,7 +44,7 @@
     >
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
-      alt="javascript"
+      alt="jquery"
       width="40"
       height="40"
     />
@@ -109,7 +109,7 @@
   <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="vuejs"
+      alt="reactjs"
       width="40"
       height="40"
     />
@@ -141,7 +141,15 @@
   <a href="https://github.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg"
-      alt="git"
+      alt="github"
+      width="40"
+      height="40"
+    />
+  </a>
+     <a href="https://lesscss.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg"
+      alt="lesscss"
       width="40"
       height="40"
     />
