@@ -182,7 +182,9 @@
 <br>
    
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbas-roholamin&theme=dark" alt="abbas-roholamin" />
+<br>
+<a href="https://app.daily.dev/abbasroholamin"><img src="https://api.daily.dev/devcards/13ddcbedd0a2487f83e840598b9ce537.png?r=tme" width="400" alt="Abbas Roholamin's Dev Card"/></a>
 </p>
 
-<a href="https://app.daily.dev/abbasroholamin"><img src="https://api.daily.dev/devcards/13ddcbedd0a2487f83e840598b9ce537.png?r=tme" width="400" alt="Abbas Roholamin's Dev Card"/></a>
+
 
