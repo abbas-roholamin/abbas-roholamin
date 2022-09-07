@@ -183,8 +183,7 @@
 </span>
 <span align="right">
 <img src="https://github-readme-stats.vercel.app/api?username=abbas-roholamin&count_private=true&show_icons=true&locale=en&theme=dark" alt="abbas-roholamin" />
-<br>
- 
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbas-roholamin&theme=dark" alt="abbas-roholamin" />
    </span>
 </div>
