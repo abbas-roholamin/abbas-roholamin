@@ -177,7 +177,7 @@
 </p>
   
   
-<div>
+<div style="display:flex;">
 <span align="left" >
 <a href="https://app.daily.dev/abbasroholamin"><img src="https://api.daily.dev/devcards/13ddcbedd0a2487f83e840598b9ce537.png?r=tme" width="400" alt="Abbas Roholamin's Dev Card"/></a>
 </span>
