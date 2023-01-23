@@ -186,6 +186,6 @@
 <br>
 <p align="left">
    <img src="https://komarev.com/ghpvc/?username=abbas-roholamin&label=Profile%20views&color=0e75b6&style=flat" alt="abbas-roholamin" /> 
-   [![wakatime](https://wakatime.com/badge/user/e1437bec-a9c1-430a-84b5-75378ccefde6.svg)](https://wakatime.com/@e1437bec-a9c1-430a-84b5-75378ccefde6)]
+   <img src="https://wakatime.com/badge/user/e1437bec-a9c1-430a-84b5-75378ccefde6.svg" alt="abbas-roholamin" /> 
 </p>
 
