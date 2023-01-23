@@ -6,7 +6,7 @@
 
 </h1>
 
-<h3 align="left">Familiar/used Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
      <a href="https://www.w3.org/html/" target="_blank">
       <img
