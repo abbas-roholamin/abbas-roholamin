@@ -6,8 +6,6 @@
 
 </h1>
 
-<hr/>
-
 <h3 align="left">Familiar/used Languages and Tools:</h3>
   <p align="left"> 
      <a href="https://www.w3.org/html/" target="_blank">
