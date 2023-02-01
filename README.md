@@ -7,9 +7,9 @@
 </h1>
 
 <h3 align="left">Languages and Tools:</h3>
-  <p align="left"> 
+  <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,sass,git,github,next,tailwind,php,laravel,mysql,postgresql,alpinejs,vue,react,vscode,graphql,jest,md,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,sass,git,github,next,tailwind,php,laravel,mysql,postgresql,alpinejs,vue,react,vscode,graphql,jest,md,redux,netlify,vercel)](https://skillicons.dev)
 
   </p>
 
