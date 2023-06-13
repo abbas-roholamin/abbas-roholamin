@@ -3,7 +3,6 @@
 
 # Hi, I'm Abbas! 👋
 
-## 🚀 About Me
 👩‍💻 I'm currently working on WriteBox
 
 🧠 I'm currently learning JAVASCRIPT related techs
