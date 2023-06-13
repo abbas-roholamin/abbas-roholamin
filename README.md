@@ -10,7 +10,7 @@
 
 🦸‍♀️ I'm looking to collaborate on open-source projects as I can
 
-💬 Ask me about JAVASCRIP
+💬 Ask me about JAVASCRIPT
 
 🎯 Become a JAVASCRIPT expert
 
@@ -19,7 +19,7 @@
 ## 🛠 Skills
   <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,sass,git,github,next,tailwind,php,laravel,alpinejs,vue,react,graphql,jest,md,redux,netlify,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,sass,git,react,next,redux,tailwind,alpinejs,vue,graphql,jest,md,netlify,vercel,php,laravel)](https://skillicons.dev)
   
   </p>
 
