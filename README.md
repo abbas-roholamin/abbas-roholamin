@@ -2,7 +2,7 @@
 
 
 # Hi, I'm Abbas! 👋
-Hi! I’m Abbas, a full-stack developer, especially front-end, adept at building performant web applications and turning designs into functional websites. Passionate about learning new technologies, and has a growth mindset.
+A full-stack developer, especially front-end, adept at building performant web applications and turning designs into functional websites. Passionate about learning new technologies, and has a growth mindset.
 
 👩‍💻 I'm currently working on WriteBox<br>
 🧠 I'm currently learning JAVASCRIPT related techs<br>
