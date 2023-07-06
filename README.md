@@ -3,11 +3,11 @@
 
 # Hi, I'm Abbas! 👋
 
-👩‍💻 I'm currently working on WriteBox
-🧠 I'm currently learning JAVASCRIPT related techs
-🦸‍♀️ I'm looking to collaborate on open-source projects as I can
-💬 Ask me about JAVASCRIPT
-🎯 Become a JAVASCRIPT expert
+👩‍💻 I'm currently working on WriteBox<br>
+🧠 I'm currently learning JAVASCRIPT related techs<br>
+🦸‍♀️ I'm looking to collaborate on open-source projects as I can<br>
+💬 Ask me about JAVASCRIPT<br>
+🎯 Become a JAVASCRIPT expert<br>
 
 
 
