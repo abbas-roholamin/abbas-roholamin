@@ -2,10 +2,10 @@
 
 
 # Hi, I'm Abbas! 👋
-A full-stack developer, especially front-end, adept at building performant web applications and turning designs into functional websites. Passionate about learning new technologies, and has a growth mindset.
+A full-stack software engineer adept at building high-performance web applications and converting designs into functional websites. Committed to continuous learning and a growth mindset.
 
-👩‍💻 I'm currently working on WriteBox<br>
-🧠 I'm currently learning JAVASCRIPT related techs<br>
+👩‍💻 I'm currently working on Exress Teile<br>
+🧠 I'm currently learning JAVASCRIPT-related techs<br>
 🦸‍♀️ I'm looking to collaborate on open-source projects as I can<br>
 💬 Ask me about JAVASCRIPT<br>
 🎯 Become a JAVASCRIPT expert<br>
@@ -15,7 +15,8 @@ A full-stack developer, especially front-end, adept at building performant web a
 ## 🛠 Skills
   <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,git,react,next,redux,tailwind,alpinejs,prisma,typescript,zod,drizzle,graphql,jest,md,php,laravel,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,git,react,next,redux,tailwind,alpinejs,prisma,typescript,express,npm,nodejs,graphql,bash,apollo,jest,vitest,md,php,laravel,docker)](https://skillicons.dev)
+
   
   </p>
 
