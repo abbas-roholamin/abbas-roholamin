@@ -15,7 +15,7 @@ A full-stack developer, especially front-end, adept at building performant web a
 ## 🛠 Skills
   <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,git,react,next,redux,tailwind,alpinejs,graphql,jest,md,php,laravel,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,git,react,next,redux,tailwind,alpinejs,prisma,typescript,zod,drizzle,graphql,jest,md,php,laravel,docker)](https://skillicons.dev)
   
   </p>
 
