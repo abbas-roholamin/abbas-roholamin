@@ -4,18 +4,11 @@
 # Hi, I'm Abbas! 👋
 A full-stack software engineer adept at building high-performance web applications and converting designs into functional websites. Committed to continuous learning and a growth mindset.
 
-👩‍💻 I'm currently working on Exress Teile<br>
-🧠 I'm currently learning JAVASCRIPT-related techs<br>
-🦸‍♀️ I'm looking to collaborate on open-source projects as I can<br>
-💬 Ask me about JAVASCRIPT<br>
-🎯 Become a JAVASCRIPT expert<br>
-
-
 
 ## 🛠 Skills
   <p align="left">
   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,git,react,next,redux,astro,tailwind,alpinejs,prisma,typescript,express,bun,deno,cypress,nest,redis,npm,nodejs,graphql,apollo,jest,vitest,md,php,laravel,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,git,react,next,redux,astro,tailwind,alpinejs,prisma,typescript,express,bun,cypress,nest,redis,npm,nodejs,graphql,apollo,jest,vitest,md,php,laravel,docker)](https://skillicons.dev)
 
   
   </p>
